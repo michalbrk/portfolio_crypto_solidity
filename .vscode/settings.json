@@ -1,0 +1,10 @@
+{
+    "tailwindCSS.emmetCompletions": true,
+    "emmet.syntaxProfiles": {
+        "javascript": "javascriptreact",
+        "javascriptreact": "html",
+        "html": {
+            "attr_quotes": "double"
+        }
+    }
+}
